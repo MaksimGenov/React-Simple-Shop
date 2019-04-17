@@ -1,0 +1,40 @@
+.row {
+  max-height: 100%;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.login-form {
+  background-color: khaki
+}
+
+.login-header {
+  background-color: rgb(64, 163, 64);
+}
+
+.slider-arrow {
+  font-size: 200%;
+  cursor: pointer;
+}
+
+.product-price {
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+#product-details-box {
+  background-color: rgb(172, 207, 231); 
+  padding: 2%
+}
+
+#product-details-box label {
+  font-weight: bolder;
+  margin: 0%;
+}
+
+.error-box {
+  background-color: red;
+  color: white;
+}
